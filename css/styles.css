@@ -537,13 +537,13 @@ header > .header-div {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffffff;
+  margin-bottom: 16px;
 }
 
 .footer-social-media-list {
   display: flex;
   gap: 16px;
   list-style: none;
-  align-items: flex-start;
 }
 
 .footer-social-media-list-item {
@@ -568,5 +568,5 @@ header > .header-div {
 }
 
 .footer-social-media-svg {
-  color: var(--white-color);
+  color: #f4f4f4fd;
 }
