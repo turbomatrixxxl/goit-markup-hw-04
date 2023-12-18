@@ -306,6 +306,7 @@ header > .header-div {
   justify-content: center;
   gap: 24px;
   list-style: none;
+  padding: 0;
 }
 
 .studio-third-section-social-media-list-item {
@@ -544,6 +545,7 @@ header > .header-div {
   display: flex;
   gap: 16px;
   list-style: none;
+  padding: 0;
 }
 
 .footer-social-media-list-item {
