@@ -450,12 +450,12 @@ header > .header-div {
   border-top: none;
 }
 
-. portfolio-second-list-link {
+.portfolio-second-list-link {
   display: block;
 }
 
-. portfolio-second-list-link:hover,
-. portfolio-second-list-link:focus {
+.portfolio-second-list-link:hover,
+.portfolio-second-list-link:focus {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
@@ -531,22 +531,19 @@ header > .header-div {
   background-color: var(--text-brand-color);
 }
 
-.footer-social-media {
-}
-
 .footer-social-media-parargraph {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--white-color);
-  margin-bottom: 16px;
+  color: #ffffffff;
 }
 
 .footer-social-media-list {
   display: flex;
   gap: 16px;
   list-style: none;
+  align-items: flex-start;
 }
 
 .footer-social-media-list-item {
