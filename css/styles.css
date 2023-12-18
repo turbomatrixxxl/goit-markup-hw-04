@@ -31,7 +31,7 @@ body {
 /* Header */
 .header {
   border-bottom: 1px solid #e7e9fc;
-  box-shadow: cu valorile 0px 2px 1px rgba(46, 47, 66, 0.08),
+  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
@@ -272,7 +272,7 @@ header > .header-div {
   background-color: #ffffffff;
   flex-basis: calc((100%-72px) / 4);
   border-radius: 0px 0px 4px 4px;
-  box-shadow: cu valorile 0px 1px 6px rgba(46, 47, 66, 0.08),
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
@@ -430,8 +430,8 @@ header > .header-div {
   background-color: var(--link-hover-color);
   cursor: pointer;
   border: 1px solid transparent;
-  box-shadow: cu valorile 0px 3px 1px rgba(0, 0, 0, 0.1),
-    0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
 .portfolio-second-list {
@@ -455,7 +455,7 @@ header > .header-div {
 
 . portfolio-second-list-link:hover,
 . portfolio-second-list-link:focus {
-  box-shadow: cu valorile 0px 1px 6px rgba(46, 47, 66, 0.08),
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
